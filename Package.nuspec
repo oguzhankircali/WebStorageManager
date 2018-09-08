@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Budala.Scripts.WebStorageManager</id>
+    <version>1.0.9</version>
+    <authors>Oguzhan KIRCALI</authors>
+    <owners>Oguzhan KIRCALI</owners>
+    <projectUrl>https://github.com/oguzhankircali/WebStorageManager</projectUrl>
+    <iconUrl>https://github.com/oguzhankircali/WebStorageManager/blob/master/WebStorageManager/baseicon.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library include lots of methods to manage session storage or local storage on your web pages. </description>
+    <releaseNotes>From new user on Nuget.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>web storage manager javascript js</tags>
+  </metadata>
+  <files>
+    <file src="WebStorageManager\Scripts\web-storage-manager.js" target="Scripts\web-storage-manager.js"></file>
+  </files>
+</package>

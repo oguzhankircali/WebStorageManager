@@ -1,0 +1,11 @@
+C:\github\WebStorageManager\bin\Debug\netcoreapp2.0\WebStorageManager.deps.json
+C:\github\WebStorageManager\bin\Debug\netcoreapp2.0\WebStorageManager.runtimeconfig.json
+C:\github\WebStorageManager\bin\Debug\netcoreapp2.0\WebStorageManager.runtimeconfig.dev.json
+C:\github\WebStorageManager\bin\Debug\netcoreapp2.0\WebStorageManager.dll
+C:\github\WebStorageManager\bin\Debug\netcoreapp2.0\WebStorageManager.pdb
+C:\github\WebStorageManager\obj\Debug\netcoreapp2.0\WebStorageManager.csprojAssemblyReference.cache
+C:\github\WebStorageManager\obj\Debug\netcoreapp2.0\WebStorageManager.csproj.CoreCompileInputs.cache
+C:\github\WebStorageManager\obj\Debug\netcoreapp2.0\WebStorageManager.AssemblyInfoInputs.cache
+C:\github\WebStorageManager\obj\Debug\netcoreapp2.0\WebStorageManager.AssemblyInfo.cs
+C:\github\WebStorageManager\obj\Debug\netcoreapp2.0\WebStorageManager.dll
+C:\github\WebStorageManager\obj\Debug\netcoreapp2.0\WebStorageManager.pdb
