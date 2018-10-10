@@ -24,13 +24,17 @@ namespace WebStorageManager
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             Debug.WriteLine(Directory.GetCurrentDirectory());
+
+            app.UseDeveloperExceptionPage();
+
+            app.UseDefaultFiles();
             app.UseStaticFiles();
             // app.UseStaticFiles(new StaticFileOptions()
             // {
             //     FileProvider = new PhysicalFileProvider(
             //                         Path.Combine(Directory.GetCurrentDirectory(), @"Scripts")),
             //                         RequestPath = new PathString("/Scripts")
-            // });
+            // }); 
 
             if (env.IsDevelopment())
             {

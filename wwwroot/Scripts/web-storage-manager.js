@@ -5,7 +5,7 @@
 document.addEventListener("DOMContentLoaded", function (event) {
 
     if (typeof (Storage) !== "undefined") {
-        document.getElementById("main").innerHTML += 'Mr.Budala says: <br/>Nicely done. Your browser supports Web Storage.<br/><br/>';
+        document.getElementById("main").innerHTML += 'Mr.Budala says:<br/>Nicely done. Your browser supports Web Storage.<br/><br/>';
 
         if (budala.defaultStorage == null) {
 
@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
             document.getElementById("main").innerHTML += 'If you want to use sessionStorage, you can set on document ready.<br/>';
             document.getElementById("main").innerHTML += 'Use <b>budala.help()</b> function to get help<br/>';
             budala.defaultStorage = sessionStorage;
-        }
+        } 
         else {
             var tmp = budala.defaultStorage.getItem(budala.settings.webStorageKey);
             if (tmp === null || tmp === '') {
