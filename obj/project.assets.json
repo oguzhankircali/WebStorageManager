@@ -6731,7 +6731,7 @@
       ]
     },
     "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
-      "sha512": "UMlN++q5qqzQ2HH+uOrKxN5fmBXMQDhrYkSaPJxhmyzfJaFPirrVr1raim/Ocq1psAZoB9+7JSAf0GDAX35wUg==",
+      "sha512": "H6ZsQzxYw/6k2DfEQRXdC+vQ6obd6Uba3uGJrnJ2vG4PRXjQZ7seB13JdCfE72abp8E6Fk3gGgDzfJiLZi5ZpQ==",
       "type": "package",
       "path": "microsoft.extensions.platformabstractions/1.1.0",
       "files": [
@@ -12663,23 +12663,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\oguzhan.kircali\\.nuget\\packages\\": {},
+    "C:\\Users\\Budala\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\WebStorageManager\\WebStorageManager.csproj",
+      "projectUniqueName": "C:\\github\\WebStorageManager\\WebStorageManager.csproj",
       "projectName": "WebStorageManager",
-      "projectPath": "C:\\Github\\WebStorageManager\\WebStorageManager.csproj",
-      "packagesPath": "C:\\Users\\oguzhan.kircali\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\WebStorageManager\\obj\\",
+      "projectPath": "C:\\github\\WebStorageManager\\WebStorageManager.csproj",
+      "packagesPath": "C:\\Users\\Budala\\.nuget\\packages\\",
+      "outputPath": "C:\\github\\WebStorageManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\oguzhan.kircali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Budala\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
