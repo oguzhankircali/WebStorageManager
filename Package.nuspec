@@ -14,6 +14,6 @@
     <tags>web storage manager javascript js</tags>
   </metadata>
   <files>
-    <file src="WebStorageManager\Scripts\web-storage-manager.js" target="Scripts\web-storage-manager.js"></file>
+    <file src="web-storage-manager.js" target="Scripts\web-storage-manager.js"></file>
   </files>
 </package>
