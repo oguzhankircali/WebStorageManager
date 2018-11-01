@@ -47,7 +47,7 @@ var budala = {
     defaultStorage: null,
     settings: {
         webStorageKey: 'budalaStorageManagerKey', //this is the session key to keep list
-        consoleMessageIsOn: false //if you turn on this, you will see all messages on console after each methods.
+        consoleMessageIsOn: true //if you turn on this, you will see all messages on console after each methods.
 
     },
     addDummyData: function () {
