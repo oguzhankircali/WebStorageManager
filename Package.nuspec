@@ -6,7 +6,7 @@
     <authors>Oguzhan KIRCALI</authors>
     <owners>Oguzhan KIRCALI</owners>
     <projectUrl>https://github.com/oguzhankircali/WebStorageManager</projectUrl>
-    <iconUrl>https://github.com/oguzhankircali/WebStorageManager/blob/master/WebStorageManager/baseicon.png?raw=true</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/oguzhankircali/WebStorageManager/master/baseicon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This library include lots of methods to manage session storage or local storage on your web pages. </description>
     <releaseNotes>From new user on Nuget.</releaseNotes>
