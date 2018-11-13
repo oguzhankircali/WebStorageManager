@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Budala.Scripts.WebStorageManager</id>
-    <version>1.0.9</version>
+    <version>1.0.0</version>
     <authors>Oguzhan KIRCALI</authors>
     <owners>Oguzhan KIRCALI</owners>
     <projectUrl>https://github.com/oguzhankircali/WebStorageManager</projectUrl>
