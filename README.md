@@ -1,8 +1,10 @@
 # WebStorageManager
 
-This library include lots of methods to manage session storage or local storage on your web pages. 
+Web Storage Manager is a library to manage local/session storage. Includes lots of methods to manage storage on your web pages. 
 Commonly, we use web storage to keep our key-value lists. 
+
 So, this library have some methods like; 
+
 - to add item to list, 
 - to get item by id from list, 
 - to get all items from list, 
