@@ -1,0 +1,9 @@
+{
+  "name": "budala-web-storage-manager",
+  "version": "1.0.0",
+  "description": "This library include lots of methods to manage session storage or local storage on your web pages.",
+  "main": "web-storage-manager.js",
+  "keywords": ["web storage","session storage","local storage"],
+  "author": "Oguzhan KIRCALI",
+  "license": "ISC"
+}

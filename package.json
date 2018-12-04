@@ -1,0 +1,14 @@
+{
+    "name": "@budala/web-storage-manager",
+    "version": "1.0.0",
+    "description": "This library include lots of methods to manage session storage or local storage on your web pages. ",
+    "license": "MIT",
+    "repository": "oguzhankircali/WebStorageManager",
+    "main": "web-storage-manager.js",
+    "keywords": [
+      "web storage",
+      "session storage",
+      "local storage"
+    ],
+    "homepage": "https://budala.gitbook.io/web-storage-manager/"
+  }
