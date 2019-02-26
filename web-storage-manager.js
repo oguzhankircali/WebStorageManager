@@ -65,19 +65,8 @@ var budala = {
     },
     addIt: function (id, name) {
         var list = JSON.parse(budala.defaultStorage.getItem(budala.settings.webStorageKey));
-
-        //Mr.Budala says: "if you don't want to add duplicate date, uncomment here."
-        //var item = findElement(list, 'ID', id);
-        //var index = list.indexOf(item);
-        //if (index > -1) {
-        //    if (budala.settings.consoleMessageIsOn)
-        //        console.log('Mr.Budala says: "this item has been added before."');
-        //    return;
-        //}
-
         list.push({ ID: id, Name: name });
         budala.defaultStorage.setItem(budala.settings.webStorageKey, JSON.stringify(list));
-
     },
     getIt: function (id) {
         var list = JSON.parse(budala.defaultStorage.getItem(budala.settings.webStorageKey));
