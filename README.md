@@ -1,4 +1,5 @@
-# WebStorageManager
+# WebStorageManager 
+[![Build Status](https://travis-ci.org/oguzhankircali/WebStorageManager.svg?branch=master)](https://travis-ci.org/oguzhankircali/WebStorageManager)
 
 Web Storage Manager is a library to manage local/session storage. Includes lots of methods to manage storage on your web pages. 
 Commonly, we use web storage to keep our key-value lists. 
